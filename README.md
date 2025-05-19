@@ -5,7 +5,7 @@
 # Module #7 - React.js: Building dynamic UIs with modern JavaScript (Frontend)
 
 ![React Module](./assets/react.png)
-
+adding my name abhijeet.
 Welcome to the React module! Congratulations on making it this far!
 
 In these four weeks, we will go back to the frontend and learn how to make faster, more modern user interfaces. In the HTML and JavaScript modules, you've learned all about creating webpages that hold unchanging data. No matter who is using the website, the data will always be the same. We call this a `static website`. At the same time you've build various HTML pages so the user is able to access various parts of the website. We call this a `multi-page application (MPA)`.
